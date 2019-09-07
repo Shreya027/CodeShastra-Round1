@@ -8,3 +8,8 @@ Built during DJCSI Codeshastra Round-1. Developed an Admin site for an android a
 - **Django REST API**
 - **Pushy API**
 
+## Screenshots
+![Home Page](https://i.imgur.com/ag2Bwhj.png)
+![Alerts](https://i.imgur.com/eUK3ke2.png)
+
+
